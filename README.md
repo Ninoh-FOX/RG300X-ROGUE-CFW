@@ -1,7 +1,7 @@
 # RG300X-ROGUE
 ROGUE custom firmware for RG300X
 
-<p align="center"><img class="center" src ="https://raw.githubusercontent.com/Ninoh-FOX/RG280V_ROGUE/main/logo_rg280v.png"></p>
+<p align="center"><img class="center" src ="https://raw.githubusercontent.com/Ninoh-FOX/RG300X-ROGUE-CFW/main/logo_rg300x.png"></p>
 
 ROGUE firmware for RG300X, same feactures that RG350 (without sticks XD)
 
